@@ -1,0 +1,4 @@
+# Technology used
+
+- HTML
+- CSS
