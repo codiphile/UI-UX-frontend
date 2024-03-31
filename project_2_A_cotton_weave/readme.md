@@ -1,7 +1,7 @@
 # TECH STACK
 
--HTML
--CSS
+- HTML
+- CSS
 
 # DESIGN
 
